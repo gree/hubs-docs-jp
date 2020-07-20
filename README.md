@@ -17,10 +17,10 @@ Pull Request・Issue・ご寄稿・ご指摘、いずれも歓迎しています
 
 ## hubs-docs-jp への参加について
 
-この [README](https://github.com/gree/hubs-docs-jp/) はhubs-docs-jpのトップページです。
-Hubsドキュメント日本語版の本体は[こちら](https://github.com/gree/hubs-docs-jp/wiki)から閲覧できます。
+この [README](https://github.com/gree/hubs-docs-jp/) は hubs-docs-jp プロジェクトのREADMEです。
+[トップページ](https://github.com/gree/hubs-docs-jp/wiki)および Hubsドキュメント日本語版の本体は[こちら](https://github.com/gree/hubs-docs-jp/wiki)から閲覧できます。
 
-このレポジトリの[README](https://github.com/gree/hubs-docs-jp/) と [Issues](https://github.com/gree/hubs-docs-jp/README/issues)にて、本グループに参加いただく際の注意点などを記載しています。グループワークを円滑に行うために一読してください。
+このレポジトリの[README](https://github.com/gree/hubs-docs-jp/) と [Issues](https://github.com/gree/hubs-docs-jp/issues)にて、本グループに参加いただく際の注意点などを記載しています。グループワークを円滑に行うために一読してください。
 
 また参加いただく際にできればREADMEレポジトリをStarではなく、Watchいただければ幸いです。
 
@@ -46,8 +46,11 @@ hubs-docs-jp プロジェクト内では上記の書式ガイドに沿うよう�
 
 ## 参照先
 
-2020年5月末時点の [hubs-docsのGitHubページ](https://github.com/MozillaReality/hubs-docs)を参考にしています。  
+2020年5月末時点の [hubs-docsのGitHubページ](https://github.com/MozillaReality/hubs-docs) をベースに逐次追加分を翻訳しており、
+2020年7月20日に[本家のライセンス整備](https://github.com/MozillaReality/hubs-docs/commit/ef55ff54a332b66cc1f011fd24e91256de9f29b7)に伴い、公開にたどり着きました。
 
 ## LICENSE
+
 このドキュメントは [Mozilla Reality](https://github.com/MozillaReality/) による ドキュメント [Hubs Docs](https://github.com/MozillaReality/hubs-docs) の派生日本語翻訳であり、[CCPL](https://github.com/MozillaReality/hubs-docs/blob/master/LICENSE) によってライセンスされています。
+
 This document is a derivative Japanese translation of [Hubs Docs](https://github.com/MozillaReality/hubs-docs) by [Mozilla Reality](https://github.com/MozillaReality/), used under [CCPL](https://github.com/MozillaReality/hubs-docs/blob/master/LICENSE).
