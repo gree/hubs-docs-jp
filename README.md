@@ -1,24 +1,24 @@
 # Hubsドキュメント日本語訳
 Japanese Translation from https://github.com/MozillaReality/hubs-docs
 
-[Hubsドキュメント日本語版](https://extra-ghe.dev.gree-dev.net/VRStudio/hubs-docs-jp/wiki)
+[Hubsドキュメント日本語版](https://github.com/gree/hubs-docs-jp/wiki)
 
 
 ## このドキュメントについて
 
-[Hubs公式ドキュメント](https://github.com/MozillaReality/hubs-docs)の翻訳カバー率100%を目指しつつ、本家に貢献できるようなナレッジも集める [Wiki](https://extra-ghe.dev.gree-dev.net/VRStudio/hubs-docs-jp/wiki) にしていきたいと思います。
+[Hubs公式ドキュメント](https://github.com/MozillaReality/hubs-docs)の翻訳カバー率100%を目指しつつ、本家に貢献できるようなナレッジも集める [Wiki](https://github.com/gree/hubs-docs-jp/wiki) にしていきたいと思います。
 
 Mozilla Reality による [本家](https://github.com/MozillaReality/hubs-docs)は [Docusaurs](https://docusaurus.io/) によって、[Hubs公式ドキュメント](https://hubs.mozilla.com/docs/welcome.html)のドキュメントを生成するためのリポジトリとなっています。
 また Hubs および Hubs の公式ドキュメントは現状はローカリゼーションおよび多言語化がされておりません。
 
-以上のような背景から、このリポジトリは（本家と連絡を取りながら）将来的にそのままMarkdownを提供することで、Hubs に貢献することも可能な形、かつ見やすく編集しやすい [Wiki](https://extra-ghe.dev.gree-dev.net/VRStudio/hubs-docs-jp/wiki) での公開形式をとっております。
+以上のような背景から、このリポジトリは（本家と連絡を取りながら）将来的にそのままMarkdownを提供することで、Hubs に貢献することも可能な形、かつ見やすく編集しやすい [Wiki](https://github.com/gree/hubs-docs-jp/wiki) での公開形式をとっております。
 
 Pull Request・Issue・ご寄稿・ご指摘、いずれも歓迎しています。お気軽にどうぞ。このREADME文書自体の内容についても、ご指摘・ご提案があれば随時お知らせください。
 
 ## hubs-docs-jp への参加について
 
 この [README](https://github.com/gree/hubs-docs-jp/) はhubs-docs-jpのトップページです。
-Hubsドキュメント日本語版の本体は[こちら](https://extra-ghe.dev.gree-dev.net/VRStudio/hubs-docs-jp/wiki)から閲覧できます。
+Hubsドキュメント日本語版の本体は[こちら](https://github.com/gree/hubs-docs-jp/wiki)から閲覧できます。
 
 このレポジトリの[README](https://github.com/gree/hubs-docs-jp/) と [Issues](https://github.com/gree/hubs-docs-jp/README/issues)にて、本グループに参加いただく際の注意点などを記載しています。グループワークを円滑に行うために一読してください。
 
