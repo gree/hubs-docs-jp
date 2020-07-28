@@ -11,7 +11,7 @@ Japanese Translation from https://github.com/MozillaReality/hubs-docs
 Mozilla Reality による [本家](https://github.com/MozillaReality/hubs-docs)は [Docusaurs](https://docusaurus.io/) によって、[Hubs公式ドキュメント](https://hubs.mozilla.com/docs/welcome.html)のドキュメントを生成するためのリポジトリとなっています。
 また Hubs および Hubs の公式ドキュメントは現状はローカリゼーションおよび多言語化がされておりません。
 
-以上のような背景から、このリポジトリは（本家と連絡を取りながら）将来的にそのままMarkdownを提供することで、Hubs に貢献することも可能な形、かつ見やすく編集しやすい [Wiki](https://github.com/gree/hubs-docs-jp/wiki) での公開形式をとっております。
+以上のような背景から、このリポジトリは [GREE VR Studio Laboratory](https://vr.gree.net/lab/) が翻訳した資料をベースに（本家と連絡を取りながら）将来的にそのままMarkdownを提供することで、Hubs に貢献することも可能な形、かつ見やすく編集しやすい [Wiki](https://github.com/gree/hubs-docs-jp/wiki) での公開形式をとっております。
 
 Pull Request・Issue・ご寄稿・ご指摘、いずれも歓迎しています。お気軽にどうぞ。このREADME文書自体の内容についても、ご指摘・ご提案があれば随時お知らせください。
 
@@ -48,6 +48,11 @@ hubs-docs-jp プロジェクト内では上記の書式ガイドに沿うよう�
 
 2020年5月末時点の [hubs-docsのGitHubページ](https://github.com/MozillaReality/hubs-docs) をベースに逐次追加分を翻訳しており、
 2020年7月20日に[本家のライセンス整備](https://github.com/MozillaReality/hubs-docs/commit/ef55ff54a332b66cc1f011fd24e91256de9f29b7)に伴い、公開にたどり着きました。
+
+## 関連資料・イベント
+
+- [VRSionUp!7 Hubs Sutdy](https://vr.gree.net/lab/live/vrsionup/vrsionup7-20200715/)
+- [VTech Challenge 2020](https://vr.gree.net/lab/vtc/vtc20/)
 
 ## LICENSE
 
