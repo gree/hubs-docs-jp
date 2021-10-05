@@ -57,8 +57,9 @@ hubs-docs-jp プロジェクト内では上記の書式ガイドに沿うよう�
 
 ## LICENSE
 
-主なドキュメントは [Mozilla Reality](https://github.com/MozillaReality/) による ドキュメント [Hubs Docs](https://github.com/MozillaReality/hubs-docs) の派生日本語翻訳であり、[CCPL](https://github.com/MozillaReality/hubs-docs/blob/master/LICENSE) によってライセンスされています。
+このサイトの主なドキュメントは [Mozilla Reality](https://github.com/MozillaReality/) による ドキュメント [Hubs Docs](https://github.com/MozillaReality/hubs-docs) の派生日本語翻訳であり、[CCPL](https://github.com/MozillaReality/hubs-docs/blob/master/LICENSE) によってライセンスされています。
 [Reticulum](https://github.com/mozilla/reticulum/blob/master/LICENSE), [Dialog](https://github.com/mozilla/dialog/blob/master/LICENSE) などの派生プロジェクトのドキュメントは参考訳であり、それぞれのリポジトリのライセンスに基づきます。
 
-Most documents are based on a derivative Japanese translation of [Hubs Docs](https://github.com/MozillaReality/hubs-docs) by [Mozilla Reality](https://github.com/MozillaReality/), used under [CCPL](https://github.com/MozillaReality/hubs-docs/blob/master/LICENSE).
-Some translation for derived projects such as [Reticulum](https://github.com/mozilla/reticulum/blob/master/LICENSE) and [Dialog](https://github.com/mozilla/dialog/blob/master/LICENSE), etc. is a reference only and they are based on each license of repositories.
+Most documents in this site are based on a derivative Japanese translation of [Hubs Docs](https://github.com/MozillaReality/hubs-docs) by [Mozilla Reality](https://github.com/MozillaReality/), used under [CCPL](https://github.com/MozillaReality/hubs-docs/blob/master/LICENSE).
+
+Some reference translation for derived projects such as [Reticulum](https://github.com/mozilla/reticulum/blob/master/LICENSE) and [Dialog](https://github.com/mozilla/dialog/blob/master/LICENSE), etc. are based on each license of repositories. 
