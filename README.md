@@ -57,6 +57,7 @@ hubs-docs-jp プロジェクト内では上記の書式ガイドに沿うよう�
 
 ## LICENSE
 
-このドキュメントは [Mozilla Reality](https://github.com/MozillaReality/) による ドキュメント [Hubs Docs](https://github.com/MozillaReality/hubs-docs) の派生日本語翻訳であり、[CCPL](https://github.com/MozillaReality/hubs-docs/blob/master/LICENSE) によってライセンスされています。
+主なドキュメントは [Mozilla Reality](https://github.com/MozillaReality/) による ドキュメント [Hubs Docs](https://github.com/MozillaReality/hubs-docs) の派生日本語翻訳であり、[CCPL](https://github.com/MozillaReality/hubs-docs/blob/master/LICENSE) によってライセンスされています。
+[Reticulum](), [Dialog]() などの派生プロジェクトのドキュメントは参考訳であり、それぞれのリポジトリのライセンスに基づきます。
 
-This document is a derivative Japanese translation of [Hubs Docs](https://github.com/MozillaReality/hubs-docs) by [Mozilla Reality](https://github.com/MozillaReality/), used under [CCPL](https://github.com/MozillaReality/hubs-docs/blob/master/LICENSE).
+Most documents are based on a derivative Japanese translation of [Hubs Docs](https://github.com/MozillaReality/hubs-docs) by [Mozilla Reality](https://github.com/MozillaReality/), used under [CCPL](https://github.com/MozillaReality/hubs-docs/blob/master/LICENSE).
