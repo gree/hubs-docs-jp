@@ -42,6 +42,7 @@ hubs-docs-jp プロジェクト内では上記の書式ガイドに沿うよう�
 ## 翻訳参加者
 
 - [Akihiko SHIRAI](https://github.com/kaitas) @kaitas
+- [Takanori HORIBE](https://github.com/TakanoHori) @TakanoHori
 - [Keiro Kamioka](https://twitter.com/Might_Overwhelm)
 
 ## 参照先
