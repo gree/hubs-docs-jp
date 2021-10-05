@@ -61,5 +61,4 @@ hubs-docs-jp プロジェクト内では上記の書式ガイドに沿うよう�
 [Reticulum](https://github.com/mozilla/reticulum/blob/master/LICENSE), [Dialog](https://github.com/mozilla/dialog/blob/master/LICENSE) などの派生プロジェクトのドキュメントは参考訳であり、それぞれのリポジトリのライセンスに基づきます。
 
 Most documents in this site are based on a derivative Japanese translation of [Hubs Docs](https://github.com/MozillaReality/hubs-docs) by [Mozilla Reality](https://github.com/MozillaReality/), used under [CCPL](https://github.com/MozillaReality/hubs-docs/blob/master/LICENSE).
-
 Some reference translation for derived projects such as [Reticulum](https://github.com/mozilla/reticulum/blob/master/LICENSE) and [Dialog](https://github.com/mozilla/dialog/blob/master/LICENSE), etc. are based on each license of repositories. 
