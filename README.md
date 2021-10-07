@@ -37,6 +37,13 @@ Pull Request・Issue・ご寄稿・ご指摘、いずれも歓迎しています
 
 2021年10月1日より、従来の Mozilla Hubs (クライアント版)のリポジトリに制限せず、関連のサーバープロジェクトや変更履歴についても翻訳を開始しております。
 
+（[Hubs Cloud AWS](https://hubs.mozilla.com/cloud) も2021年10月5日に v.1.1.2がリリースされていますので、可能な限りで扱っていきたいと思います）
+
+なお、日本語追加ドキュメントについてもOSSであり、表記されている通りのライセンスでご活用いただくことは歓迎です。
+もちろん Qiita や Zenn 、社内勉強会などでのご活用も歓迎です。
+よい資料がありましたら紹介させていただきたいので、遠慮なくお知らせください。
+GREE VR Studio Laboratory [Twitter@VRStudioLab](https://twitter.com/VRStudioLab/status/1446013455404716036)
+
 ## 書式ガイド
 
 [mozilla.jp の表記ルール](https://github.com/mozilla-japan/translation/wiki/Editorial-Guideline)を参照してください。
