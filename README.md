@@ -33,6 +33,10 @@ Pull Request・Issue・ご寄稿・ご指摘、いずれも歓迎しています
 
 **また翻訳に慣れている方は是非、参加よろしくお願いいたします。**
 
+## 日本語追加ドキュメントについて
+
+2021年10月1日より、従来の Mozilla Hubs (クライアント版)のリポジトリに制限せず、関連のサーバープロジェクトや変更履歴についても翻訳を開始しております。
+
 ## 書式ガイド
 
 [mozilla.jp の表記ルール](https://github.com/mozilla-japan/translation/wiki/Editorial-Guideline)を参照してください。
