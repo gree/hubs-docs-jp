@@ -1,5 +1,5 @@
-name: 新規翻訳タスク(New Translation Task)
-description: 新規翻訳タスク用issueを作成する
+name: 新規タスク(New Task)
+description: 新規タスク用issueを作成する
 title: "[task]: "
 labels: []
 body:
@@ -55,4 +55,3 @@ body:
     id: special-thanks
     attributes:
       value: |
-        Beta testing 
